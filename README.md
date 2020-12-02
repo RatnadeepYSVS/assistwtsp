@@ -1,4 +1,5 @@
 # assistwtsp
+######VERY IMPORTANT PLEASE MAKE SURE THAT UR PHONE IS CONNECTED TO INTERNET
 #First things first this assist is made by 
 #1).using gtts(google text to speech).
 #2).speech recognition api and Pynput(This module is used for keyboard typos and mouse clicks basically this module is used for making keyloggers.) .
