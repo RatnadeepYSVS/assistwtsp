@@ -26,7 +26,7 @@ OPTIONAL:- For Downloading git repos use git bash if u are familiar with github 
 First Download the git repo it contains of two scripts  
 1.webscript.py
 2.assistant.py
-After downloading open cmd prompt if u are a windows user or if u are a Mac or Linux user open your terminal and run the command "python assistant.py" please make sure u navigated to the folder correctly.
+After downloading open cmd prompt if u are a windows user or if u are a Mac or Linux user open your terminal.After opening cmd-prompt or terminal run the command "python assistant.py" please make sure u navigated to the folder correctly.
 It asks person's name.Then it asks type of message if it's an occasion message(like birthday or anniversary greets) say either birthdaymessage or anniversarymessage.I've made sure that if it's on occasion message you need not say anything the message will be sent directly to that person on that day at night 12.If it's a non occasion message just say something randomly.And say the message what u want to send to that particular person.
 That's it Rose will automatically send the message for u to that particular person.
 # Added Features
