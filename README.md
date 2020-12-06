@@ -4,13 +4,13 @@ Hey there.To use this script.Please follow the Below Steps.
 PLEASE MAKE SURE THAT UR PHONE IS CONNECTED TO INTERNET.
 Make sure that u have Python and Pip in your system.If not:-
 Python Installation:-
-1)https://www.youtube.com/results?search_query=installing+python+on+windows+10(for Windows Users)
-2)https://www.youtube.com/watch?v=TgA4ObrowRg&ab_channel=AutomationStepbyStep-RaghavPal(for Mac Users)
-3)https://www.youtube.com/watch?v=LwORmcaI69w&ab_channel=linuxhint(for Linux Users)
+1)https://www.youtube.com/results?search_query=installing+python+on+windows+10 (for Windows Users)
+2)https://www.youtube.com/watch?v=TgA4ObrowRg&ab_channel=AutomationStepbyStep-RaghavPal (for Mac Users)
+3)https://www.youtube.com/watch?v=LwORmcaI69w&ab_channel=linuxhint (for Linux Users)
 Pip installation:-
-1)https://www.youtube.com/watch?v=AVCcFyYynQY&ab_channel=ProgrammingKnowledge2(for Windows Users)
-2)https://www.youtube.com/watch?v=BCUppC__Px8&ab_channel=SamanthaCruz(for Mac Users)
-3)https://www.youtube.com/watch?v=dpQEs6tE1XU&ab_channel=ProgrammingKnowledge2(for Linux Users)
+1)https://www.youtube.com/watch?v=AVCcFyYynQY&ab_channel=ProgrammingKnowledge2 (for Windows Users)
+2)https://www.youtube.com/watch?v=BCUppC__Px8&ab_channel=SamanthaCruz (for Mac Users)
+3)https://www.youtube.com/watch?v=dpQEs6tE1XU&ab_channel=ProgrammingKnowledge2 (for Linux Users)
 # Modules Used to make this Bot are:- 
 1)gtts(google text to speech).
 2)Google's Speech recognition Library.
