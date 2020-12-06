@@ -22,7 +22,7 @@ As gtts,SpeechRecognition and pynput libraries are need to be downloaded so pip 
 3)WebBrowser Module is used to open web.whatsapp.com.
 4)OS,time and datetime modules.
 # USAGE OF SCRIPT
-OPTIONAL:- For Downloading git repos use git bash if u are familiar with github and git.
+(OPTIONAL:- For Downloading git repos use git bash if u are familiar with github and git.)
 First Download the git repo it contains of two scripts  
 1.webscript.py
 2.assistant.py
