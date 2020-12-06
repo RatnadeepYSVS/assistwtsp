@@ -1,1 +1,23 @@
-
+My approaches:-
+1)First thing that i have used is SWD(selenium web driver).In that Major disadvantage is that u have to login using scanner each and everytime u run the script.And Moreover Using selenium u have to find the search bars and other elements by their source code.It's Kind of 50-50 Because sometimes it works sometimes it may not,
+SO AUTOMATION OF WHATSAPP USING SWD IS NOT A GOOD IDEA.IT'S NOT AUTOMATION IT'S ALMOST EQUAL TO WRITING A MESSAGE TO THAT PERSON BY YOURSELF.
+2) Then i came up with the idea of using os.system to open a path.I have created a whatsapp shrotcut on my Desktop.And i have provided the path of shortcut by using os.system.
+In this approach the disadvantage is that u have to provide a path.And Most probably people use webwhatsapp in chrome.
+This is Also a Bad idea.But Not worst and it helps only ur PC if u have desktop application of whatsapp.
+3)This approach is GOOD.I'm not using SWD and OS so no file path and no finding elements.By webbrowser module u can open webwhatsapp.com.
+Sending Messages:-
+First thing in SWD i found people(who i want to message) by using"find_element_by_xpath,classname etc" that's kind of tricky.
+It has troubled Me a lot in finding elements.So It worked sometimes and sometimes it didn't even work.
+So for the Next two approaches the key thing is:-
+If u observe webwhatsapp or desk application and hit tab key once the cursor is placed on the searchfield if u type the person-name(contact name) entirely in searchfield.The first result is u get the contact chat.
+and if u hit tab key once it pops the contact chat on the side and hit tab key twice the cursor is placed on the message field.
+So as explained above.
+There is module called pynput.
+Pynput  is module in python which allows us to controll mouse and keyboard of our system.
+So after opening webwhatsapp or desk-application.The key thing is loading of whatsapp.
+It Depends on netspeed and sometimes case is that u have to login so i used time.sleep to wait for 20 secs so that the site gets loaded completely.
+After that using Pynput.keyboard i pressed tab key once and waited for 3-5 secs (because if somewhat loading of contact is slow and if u haven't made it sleep for 3-5 secs.It directly presses the keys and message would not be sent and code doesen't work properly).
+So i made use of time.sleep method.After Pressing that tab key the contact pops up in this sleep time i have mentioned and tab key is pressed Twice and waits.
+After waiting the message is entered in message field and waits.The purpose of wating here is to show u the message entered by the bot is correct.
+After waiting the enter key is pressed and hence the message is sent to that person.
+That's it!!!!   
