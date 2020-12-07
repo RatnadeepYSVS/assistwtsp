@@ -1,5 +1,5 @@
 # Assistwtsp.
-Hey there.To use this script.Please follow the Below Steps.
+Hey there.To use this script.Please follow the Below Steps.And Please Checkout the how it works.txt file to Know the algo and my approaches of the bot.
 # VERY IMPORTANT
 PLEASE MAKE SURE THAT UR PHONE IS CONNECTED TO INTERNET.
 Make sure that u have Python and Pip in your system.If not:-
